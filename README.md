@@ -1,1 +1,1 @@
-# WPPS
+# WDPS - Wifi Device Positioning system
